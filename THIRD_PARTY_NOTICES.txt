@@ -1,0 +1,18 @@
+Music Video Tool includes FFmpeg in the installed application folder.
+
+FFmpeg project:
+https://ffmpeg.org/
+
+Windows build source:
+https://www.gyan.dev/ffmpeg/builds/
+
+FFmpeg is free software distributed under its applicable GNU license terms.
+The included build may contain GPL-licensed components such as libx264.
+License and source information is available from the FFmpeg project and the
+Windows build provider listed above.
+
+CustomTkinter:
+https://github.com/TomSchimansky/CustomTkinter
+
+Pillow:
+https://python-pillow.github.io/
